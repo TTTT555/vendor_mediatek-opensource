@@ -1,3 +1,0 @@
-service aee_aed64 /system/bin/aee_aed64
-    group root readproc system debuggerd log
-    writepid /dev/cpuset/system-background/tasks

@@ -1,7 +1,0 @@
-cc_library_headers {
-
-    name: "audio_util_common_includes",
-
-    export_include_dirs: ["."],
-
-}
